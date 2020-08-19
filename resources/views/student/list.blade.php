@@ -2,7 +2,7 @@
 @section('content')
 <div class="row">
     <div class="col-lg-11">
-        <h2>Laravel 7</h2>
+        <h2>Laravel 7 Crud Module</h2>
     </div>
     <div class="col-lg-1">
         <a class="btn btn-success" href="#" data-toggle="modal" data-target="#addModal">Add</a>
